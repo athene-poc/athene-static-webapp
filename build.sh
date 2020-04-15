@@ -3,3 +3,4 @@
 echo "You just run the build.sh"
 pwd
 ls
+docker ps
